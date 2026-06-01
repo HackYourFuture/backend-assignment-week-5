@@ -3,12 +3,12 @@ Full instructions for the assignment can be found in the learning platform: http
 
 ## Implementation Instructions
 
-Provide clear instructions on how trainees should implement the tasks.
-
-### Task 1
+### Task 1: library DDL
 Write your DDL statements to create the tables for the database in the `task-1/schema.sql` file.  
 
-### Task 2
-Instructions for Task 2
-...
+### Task 2: Java CRUD
+Write your Java code to perform CRUD in the `task-2` folder.
+
+Note: There is a function to read the csv already! See CsvReader.java.
+
 
