@@ -9,6 +9,5 @@ Write your DDL statements to create the tables for the database in the `task-1/s
 ### Task 2: Java CRUD
 Write your Java code to perform CRUD in the `task-2` folder.
 
-Note: There is a function to read the csv already! See CsvReader.java.
-
+Note: There is a function to read the csv already! See CsvReader.java, and the Main class on how it can be used.
 
